@@ -1,0 +1,7 @@
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\bin\Debug\BusinessLogic.exe
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\obj\Debug\BusinessLogic.exe
+C:\Users\Marios Matthioulakis\source\repos\PrivateSchool\BusinessLogic\obj\Debug\BusinessLogic.pdb
